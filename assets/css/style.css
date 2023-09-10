@@ -2848,7 +2848,7 @@ button.slick-arrow {
 .copyright-text p {
     font-size: 14px;
     font-weight: normal;
-    color: #c5c5c5;
+    color: #000000;
     text-transform: uppercase;
     margin-bottom: 0;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -2859,7 +2859,7 @@ button.slick-arrow {
 }
 
 .copyright-text p span {
-    color: #ffcf70;
+    color: #181bd1;
 }
 
 /* timeline */
